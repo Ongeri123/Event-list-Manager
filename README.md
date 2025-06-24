@@ -55,7 +55,7 @@ A dynamic web application for managing event RSVPs with real-time interactivity.
 ## Author
 The project was crafted by Newton Ongeri  having  html ,css and js to explore the dom manipulation
 
-##License
+
 ## 📄 License
 
 This project is licensed under the licensed board
